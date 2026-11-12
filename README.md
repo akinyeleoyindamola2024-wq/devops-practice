@@ -1,7 +1,7 @@
 # devops-practice
 
 ## About Me
-I am learning Devuops engineering.
+I am passionate about becoming a Cloud Engineer and DevOps professional.
 
 ## Skills
 - Git
